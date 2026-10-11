@@ -1,0 +1,17 @@
+{
+  "name": "boaring-agents",
+  "owner": {
+    "name": "lucasbozzo"
+  },
+  "metadata": {
+    "description": "Marketplace sharing skills, agents and MCP servers"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "Template plugin bundling a skill, an agent, a command and an MCP server config",
+      "version": "0.1.0"
+    }
+  ]
+}

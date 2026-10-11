@@ -1,0 +1,8 @@
+{
+  "name": "example-plugin",
+  "description": "Template plugin bundling a skill, an agent, a command and an MCP server config",
+  "version": "0.1.0",
+  "author": {
+    "name": "lucasbozzo"
+  }
+}
